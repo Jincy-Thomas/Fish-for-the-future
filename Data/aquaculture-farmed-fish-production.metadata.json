@@ -1,0 +1,35 @@
+{
+  "chart": {
+    "title": "Aquaculture production",
+    "subtitle": "Aquaculture is the farming of aquatic organisms including fish, molluscs, crustaceans and aquatic plants. Aquaculture production specifically refers to output from aquaculture activities, which are designated for final harvest for consumption.",
+    "citation": "Food and Agriculture Organization of the United Nations (FAO), via World Bank (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/aquaculture-farmed-fish-production?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Sub-Saharan Africa (WB)",
+      "North America (WB)",
+      "South Asia (WB)",
+      "East Asia and Pacific (WB)",
+      "Middle East and North Africa (WB)",
+      "Europe and Central Asia (WB)",
+      "Latin America and Caribbean (WB)"
+    ]
+  },
+  "columns": {
+    "Aquaculture production (metric tons)": {
+      "titleShort": "Aquaculture production (metric tons)",
+      "titleLong": "Aquaculture production (metric tons)",
+      "unit": "metric tons",
+      "timespan": "1960-2022",
+      "type": "Numeric",
+      "owidVariableId": 1106629,
+      "shortName": "er_fsh_aqua_mt",
+      "lastUpdated": "2025-09-08",
+      "nextUpdate": "2026-09-08",
+      "citationShort": "Food and Agriculture Organization of the United Nations (FAO), via World Bank (2025) – processed by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (FAO), via World Bank (2025) – processed by Our World in Data. “Aquaculture production (metric tons)” [dataset]. Food and Agriculture Organization of the United Nations (FAO), via World Bank, “World Development Indicators 122” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1106629.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-09-30",
+  "activeFilters": {}
+}
