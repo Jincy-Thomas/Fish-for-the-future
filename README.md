@@ -1,7 +1,7 @@
 # Fish for the Future: How the World’s Seafood Supply Is Changing
 
 ## Project Overview
-The global seafood supply was analyzed from 1960–2022, examining the balance between wild-caught fisheries and aquaculture. Regional and income-based production trends were evaluated to understand shifts in supply, highlight ecological limits, and explore opportunities and risks for sustainable seafood production.
+The global seafood supply was analyzed from 1960 to 2022, examining the balance between wild-caught fisheries and aquaculture. Regional and income-based production trends were evaluated to understand shifts in supply, highlight ecological limits, and explore opportunities and risks for sustainable seafood production.
 
 ---
 
